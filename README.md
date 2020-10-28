@@ -10,3 +10,15 @@
 
 #### Deploy feito no Heroku
 
+
+
+##        Endereço acesso à API:
+
+https://ualzem-apirest-produtos.herokuapp.com/swagger-ui.html
+
+
+
+
+
+#### Ualzem Campos
+
